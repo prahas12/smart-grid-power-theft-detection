@@ -65,24 +65,6 @@ Machine Learning Detection
 
 ---
 
-##  Example Results
-
-The system generates visual insights including:
-
-• Normal vs abnormal electricity consumption patterns
-• Consumer clustering based on energy usage behavior
-• Energy analytics dashboard showing consumption statistics
-
-Example visual outputs:
-
-* Electricity consumption pattern analysis
-* AI-based consumer clustering
-* Smart grid energy dashboard
-
-(Add your generated result images inside the `images/` folder.)
-
----
-
 ##  How to Run the Project
 
 1. Open **MATLAB**
