@@ -1,6 +1,6 @@
-# ⚡ AI-Based Smart Grid Power Theft Detection System
+#  AI-Based Smart Grid Power Theft Detection System
 
-## 📌 Overview
+##  Overview
 
 Electricity theft and abnormal power consumption are major challenges in modern power distribution networks. Utilities lose significant revenue every year due to unauthorized electricity usage and inefficient monitoring systems.
 
@@ -12,7 +12,7 @@ This project demonstrates how **machine learning and data analytics can enhance 
 
 ---
 
-## 🎯 Project Motivation
+##  Project Motivation
 
 Traditional electricity meters only measure total energy consumption and provide limited insight into how electricity is being used.
 
@@ -26,7 +26,7 @@ This project explores how **AI models can automatically detect such anomalies**.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * Smart meter data simulation for multiple consumers
 * Feature extraction from electricity consumption patterns
@@ -38,7 +38,7 @@ This project explores how **AI models can automatically detect such anomalies**.
 
 ---
 
-## ⚙️ System Workflow
+##  System Workflow
 
 ```
 Smart Meter Data Simulation
@@ -56,7 +56,7 @@ Machine Learning Detection
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * MATLAB
 * Machine Learning Algorithms
@@ -65,7 +65,7 @@ Machine Learning Detection
 
 ---
 
-## 📊 Example Results
+##  Example Results
 
 The system generates visual insights including:
 
@@ -83,7 +83,7 @@ Example visual outputs:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Open **MATLAB**
 2. Navigate to the `code` folder
@@ -103,7 +103,7 @@ The program will automatically:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 smart-grid-power-theft-detection
@@ -132,7 +132,7 @@ smart-grid-power-theft-detection
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Possible extensions of this system include:
 
@@ -144,6 +144,6 @@ Possible extensions of this system include:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as part of a personal exploration of **AI applications in smart grid energy systems and intelligent power monitoring**.
